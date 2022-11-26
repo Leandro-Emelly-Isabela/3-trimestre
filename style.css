@@ -9,5 +9,5 @@ main{background-color:#bb965f;}
 .PRIMEIROPARAGRAFO{text-align:justify;font-size:18px;border:black solid 2px;padding:10px;margin:10px;}
 .SEGUNDOPARAGRAFO{text-align:justify;font-size:18px;border:black solid 2px;padding:10px;margin:10px;}
 #TITULOIMAGEM{width:25%;height:25%;}
-#LISTA{display:inline-block;}
-#CARDAPIO{width:70%;height:70%;}
+#LISTA{display:inline-block;text-align:center;}
+#CARDAPIO{width:55%;height:55%;}
